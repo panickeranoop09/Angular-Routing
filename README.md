@@ -8,7 +8,7 @@ Overall Agenda is:
 3.	Add AngularJS router and AngularJS controller
 4.	Modify _layout.cshtml and views to use AngularJS.
 
-Workflow
+Workflow:
 •	Create an MVC application as part of the Angular JS routing example. Add “AngularTemplates” folder under the Project root which will contain angular JS template of views.
 •	Add AngularJsRouting and AngularJsControllers folder to Scripts folder. This folder will contain Angular JS routing and Angular JS controllers.
 •	Reference Angular JS library to MVC application. Add “Angular.min.js” and “Angular-route.js” to MVC app. The references are added in _layout.cshtml under Views/Shared (A common repository for handling UI layouts).
